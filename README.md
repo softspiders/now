@@ -14,9 +14,9 @@ Absent
 
 ## Requirements
 
-* [Now CLI](https://zeit.co/docs/v2/getting-started/installation/#now-cli)
+[Now CLI](https://zeit.co/docs/v2/getting-started/installation/#now-cli)
 
-## Install *Now CLI*
+### Install *Now CLI*
 
 ```sh
 npm install -g now
@@ -24,25 +24,38 @@ npm install -g now
 
 ## Write code
 
+```sh
+mkdir now && cd now
+```
+
+We are now inside the *now* directory. Use your favorite text editor to create an *index.html* file with the following contents:
+
+```html
+<h1>Hello World</h1>
+<marquee>This is my first Now Deployment</marquee>
+```
+
 ## Deploy to Zeit Now
+
+All we have to do now is run *now* from within the *now* directory:
 
 ```sh
 now
 ```
 
-## Running dev-mode
+The output looks like the following and includes a deployment URL:
+![CLI console](basic-deployment-index.png)
 
-```sh
-cd api && yarn dev
-```
+## Check the deployment
 
-```sh
-cd www && yarn dev
-```
+Check the deployment for a live example: https://my-app-prtypks27.now.sh/
+
+This URL is unique to the source code inside that directory. If you run now again, the same deployment is returned. This is why we call our deployments immutable.
 
 ## Authors
 
- [Alexander Lapygin](https://github.com/AlexanderLapygin) - embedding in [Soft Spiders](https://github.com/softspider)
+- [Zeit](https://zeit.co/) (c)
+- [Alexander Lapygin](https://github.com/AlexanderLapygin) - embedding in [Soft Spiders](https://github.com/softspider)
 
 ## Inspired by
 
