@@ -1,6 +1,6 @@
 # now
 
-Zeit Now "HelloWorld" example
+*Zeit Now* "*HelloWorld*" example
 
 ## Direct ancestors
 
