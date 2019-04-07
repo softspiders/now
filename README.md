@@ -54,8 +54,8 @@ This URL is unique to the source code inside that directory. If you run now agai
 
 ## Authors
 
-- [Zeit](https://zeit.co/) (c)
-- [Alexander Lapygin](https://github.com/AlexanderLapygin) - embedding in [Soft Spiders](https://github.com/softspider)
+* [Zeit](https://zeit.co/) (c)
+* [Alexander Lapygin](https://github.com/AlexanderLapygin) - catching in [Soft Spiders Net](https://github.com/softspider)
 
 ## Inspired by
 
