@@ -1,5 +1,11 @@
 # now
 
+## Feature tags
+
+- now
+- template
+- zeit
+
 *Zeit Now* "*HelloWorld*" example
 
 ## Direct ancestors
