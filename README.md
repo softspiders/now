@@ -17,7 +17,7 @@ Absent
 
 ## Direct descendants
 
-[An Apollo Server & Client in a Next.js in a yarn Workspace deployed with Now 2.0](https://github.com/softspider/zeit-now-next-typescript-graphql-apollo)
+[An Apollo Server & Client in a Next.js in a yarn Workspace deployed with Now 2.0](https://github.com/softspiders/zeit-now-next-typescript-graphql-apollo)
 
 ---
 
