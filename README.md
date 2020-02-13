@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # now
 
@@ -7,13 +7,9 @@ SOFTSPIDERS
 ## Feature tags
 
 - now
+- starter
 - template
 - zeit
-
-
-## Direct ancestors
-
-Absent
 
 ## Direct descendants
 
